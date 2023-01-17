@@ -1,0 +1,14 @@
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.exe
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.deps.json
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.runtimeconfig.json
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.runtimeconfig.dev.json
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.dll
+C:\Users\HoangThai\source\repos\prjAES\prjAES\bin\Debug\netcoreapp3.1\prjAES.pdb
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.csproj.AssemblyReference.cache
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.AssemblyInfoInputs.cache
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.AssemblyInfo.cs
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.csproj.CoreCompileInputs.cache
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.dll
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.pdb
+C:\Users\HoangThai\source\repos\prjAES\prjAES\obj\Debug\netcoreapp3.1\prjAES.genruntimeconfig.cache
